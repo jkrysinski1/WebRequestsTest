@@ -56,23 +56,15 @@
 		110BE94A1C8CD45C00B39E8D /* WebRequestsTest */ = {
 			isa = PBXGroup;
 			children = (
-				113C46801C8D213D009E525F /* Model */,
 				110BE94B1C8CD45C00B39E8D /* AppDelegate.swift */,
 				110BE94D1C8CD45C00B39E8D /* ViewController.swift */,
+				113C46831C8D216A009E525F /* SWPerson.swift */,
 				110BE94F1C8CD45C00B39E8D /* Main.storyboard */,
 				110BE9521C8CD45C00B39E8D /* Assets.xcassets */,
 				110BE9541C8CD45C00B39E8D /* LaunchScreen.storyboard */,
 				110BE9571C8CD45C00B39E8D /* Info.plist */,
 			);
 			path = WebRequestsTest;
-			sourceTree = "<group>";
-		};
-		113C46801C8D213D009E525F /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				113C46831C8D216A009E525F /* SWPerson.swift */,
-			);
-			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
